@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css?family=Abril+Fatface|Ubuntu');
+.header
+{
+	background-color: black;
+	padding-top: 1%;
+	padding-bottom: 1%;
+    font-family: 'Abril Fatface', cursive;
+    color: white;
+}
+.mainbody
+{
+	background-color: #fcffdb;
+}
+
+hr.style1
+{
+	border-top: 1px solid #8c8b8b;
+}
+
+.padd
+{
+	padding-top: 3%;
+}
+
+.verticalLine {
+  border-right: thick solid black;
+}
+
+.space
+{
+	margin-left: 5%;
+}
